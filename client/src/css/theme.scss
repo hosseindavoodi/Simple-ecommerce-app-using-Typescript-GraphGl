@@ -1,0 +1,195 @@
+$ThemeColor: #ff6666;
+$MenuHoverColor: black;
+$MenuColor: white;
+
+h2 {
+	color: $ThemeColor;
+}
+
+.Novtop {
+	color: $MenuColor;
+}
+.aa-primary-btn:hover,
+.aa-primary-btn:focus {
+	color: $ThemeColor;
+	border-color: $ThemeColor;
+}
+
+.aa-add-to-cart-btn:hover,
+.aa-add-to-cart-btn:focus {
+	color: $ThemeColor;
+	border-color: $ThemeColor;
+}
+.aa-filter-btn {
+	background-color: $ThemeColor;
+	border: 1px solid $ThemeColor;
+}
+.aa-cart-view-btn {
+	background-color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-header-bottom-area .aa-logo a > span {
+	color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-header-bottom-area .aa-logo a strong {
+	color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-header-bottom-area .aa-search-box button {
+	background-color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-cartbox .aa-cart-link {
+	color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-cartbox .aa-cart-link .aa-cart-notify {
+	border: 1px solid $ThemeColor;
+	color: $ThemeColor;
+}
+#aa-header .aa-header-bottom .aa-cartbox .aa-cart-link .aa-cart-notify:after {
+	border-top-color: $ThemeColor;
+}
+
+#menu {
+	background-color: $ThemeColor;
+}
+#menu .menu-area .navbar-default .navbar-nav .open a {
+	color: $ThemeColor;
+}
+#menu .menu-area .navbar-default .navbar-nav .dropdown-menu li a {
+	color: $ThemeColor;
+}
+#menu .menu-area .navbar-default .navbar-nav .dropdown-menu li a:hover,
+#menu .menu-area .navbar-default .navbar-nav .dropdown-menu li a:focus {
+	background-color: $ThemeColor;
+}
+.scrollToTop {
+	background-color: $ThemeColor;
+	border: 1px solid $ThemeColor;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+	color: $ThemeColor;
+}
+
+.aa-products-tab li a:hover,
+.aa-products-tab li a:focus {
+	border-bottom: 1px solid $ThemeColor;
+	border: 0;
+	color: $MenuHoverColor;
+}
+.aa-products-tab li.active a {
+	border-bottom: 1px solid $ThemeColor !important;
+}
+.aa-products-tab li.active a:hover,
+.aa-products-tab li.active a:focus {
+	border-bottom: 1px solid $ThemeColor;
+}
+.aa-product-catg li figure .aa-add-card-btn:hover {
+	color: $ThemeColor;
+}
+.aa-product-catg li .aa-product-title a:hover,
+.aa-product-catg li .aa-product-title a:focus {
+	color: $ThemeColor;
+}
+.aa-product-catg li .aa-product-price {
+	color: $ThemeColor;
+}
+.aa-product-catg li .aa-product-hvr-content a:hover,
+.aa-product-catg li .aa-product-hvr-content a:focus {
+	color: $ThemeColor;
+}
+#quick-view-modal .modal-content button.close:hover {
+	color: $ThemeColor;
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-price-block .aa-product-avilability span {
+	color: $ThemeColor;
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-prod-view-size a:hover,
+#quick-view-modal .modal-content .aa-product-view-content .aa-prod-view-size a:focus {
+	border-color: $ThemeColor;
+	color: $ThemeColor;
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-prod-quantity .aa-prod-category a {
+	color: $ThemeColor;
+}
+.slick-prev,
+.slick-next {
+	background-color: $ThemeColor;
+}
+#aa-support .aa-support-area .aa-support-single span {
+	color: $ThemeColor;
+}
+#aa-testimonial .aa-testimonial-area .aa-testimonial-slider li.slick-active {
+	background-color: $ThemeColor;
+}
+.aa-latest-blog-single .aa-blog-img:hover .aa-blog-img-caption {
+	background-color: $ThemeColor;
+}
+.aa-latest-blog-single .aa-blog-info .aa-blog-title a:hover {
+	color: $ThemeColor;
+}
+.aa-latest-blog-single .aa-blog-info .aa-read-mor-btn {
+	color: $ThemeColor;
+}
+.aa-latest-blog-single .aa-blog-info .aa-read-mor-btn:hover span,
+.aa-latest-blog-single .aa-blog-info .aa-read-mor-btn:focus span {
+	color: $ThemeColor;
+}
+#aa-subscribe .aa-subscribe-area .aa-subscribe-form input[type="submit"] {
+	background: $ThemeColor none repeat scroll 0 0;
+	border: 1px solid $ThemeColor;
+}
+#aa-footer .aa-footer-bottom .aa-footer-bottom-area > p a:hover,
+#aa-footer .aa-footer-bottom .aa-footer-bottom-area > p a:focus {
+	color: $ThemeColor;
+}
+#aa-catg-head-banner .aa-catg-head-banner-area .aa-catg-head-banner-content .breadcrumb .active {
+	color: $ThemeColor;
+}
+#aa-product-category .aa-sidebar .aa-sidebar-widget h3 {
+	color: $ThemeColor;
+	border-bottom: 1px solid $ThemeColor;
+}
+
+#aa-product-details
+	.aa-product-details-area
+	.aa-product-details-content
+	.aa-product-view-content
+	.aa-prod-quantity
+	.aa-prod-category
+	a {
+	color: $ThemeColor;
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .nav-tabs li a:hover,
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .nav-tabs li a:focus {
+	color: $ThemeColor;
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .aa-review-form .aa-review-submit {
+	background-color: $ThemeColor;
+	border-color: $ThemeColor;
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .aa-review-form .form-control:focus {
+	border-color: $ThemeColor;
+}
+#cart-view .cart-view-area .cart-view-table .table tbody tr td .aa-cart-title {
+	color: $ThemeColor;
+}
+#cart-view .cart-view-area .cart-view-table .table tbody tr td .aa-cart-title:hover {
+	color: $ThemeColor;
+}
+#checkout .checkout-area .checkout-left .panel-group .panel-default .panel-heading .panel-title a {
+	color: $ThemeColor;
+}
+#checkout .checkout-area .checkout-right h4 {
+	color: $ThemeColor;
+}
+#login-modal .modal-dialog .aa-register-now a {
+	color: $ThemeColor;
+}
+
+#aa-footer .aa-footer-bottom .aa-footer-bottom-area > p a:hover,
+#aa-footer .aa-footer-bottom .aa-footer-bottom-area > p a:focus {
+	color: $ThemeColor;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background-color: $ThemeColor;
+}
